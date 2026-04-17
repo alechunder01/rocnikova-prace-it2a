@@ -1,5 +1,5 @@
 # Ročníková práce
 Ročníková práce druhého ročníku žáka Alexandre Nicolas.
 
-## Progress
+## 📅 Changelog
 17.04 - design assetů
