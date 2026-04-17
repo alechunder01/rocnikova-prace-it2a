@@ -1,6 +1,7 @@
 # Ročníková práce
 
 Ročníková práce druhého ročníku žáka Alexandre Nicolas.
+Budu pracovat v Godotu s C#
 
 ## Gameplay
 
